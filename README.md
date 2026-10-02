@@ -84,8 +84,8 @@ erDiagram
 ## Instalación
 
 ```bash
-git clone https://github.com/<tu-usuario>/patofinanzas.git
-cd patofinanzas
+git clone https://github.com/Alecit13/bot-telegram.git
+cd bot-telegram
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
