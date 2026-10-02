@@ -2,7 +2,7 @@
 
 Bot de Telegram que registra gastos en lenguaje natural y calcula cuánto debes pagar de cada tarjeta de crédito antes del vencimiento.
 
-![GIF](https://tenor.com/view/duck-gif-22060560)
+![GIF 1](https://tenor.com/view/duck-gif-22060560.gif)
 
 ## El problema
 
